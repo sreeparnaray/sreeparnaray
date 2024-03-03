@@ -13,6 +13,7 @@ Greetings! Welcome to my GitHub profile. Here, you'll find a collection of my pr
 I am a passionate software developer with a deep-rooted love for coding and problem-solving. Throughout my career, I have embraced the ever-evolving landscape of technology, immersing myself in various domains and languages. My thirst for knowledge and determination to excel drive me to continually explore new frontiers, be it full stack web development, data science, or machine learning.
 
 # ACHIEVEMENTS
+- JIS PURASKAR 2024 – Special Appreciation : Best Student Project | PROJECT : POCKET DOCTOR | JIS SAMMAN 2024 – JIS GROUP
 - RASVERSE IDEAFIND+ Ideathon - Special Mention Winner |  IEEE Robotics & Automation Society - VIT Vellore
 - Jatayu Season II Semifinalist  | Virtusa
 - Evolve Robotics Championship - 2nd Place | Indian Society of Engineers for Robotics
