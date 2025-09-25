@@ -1,4 +1,4 @@
-
+![Header](./banner.png)
 
 # 👋 Hi, I’m Sreeparna Ray  
 
