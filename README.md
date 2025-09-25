@@ -1,3 +1,5 @@
+![Header](./Banner.png)
+
 # 👋 Hi, I’m Sreeparna Ray  
 
 🚀 Software Development Engineer | AI & Systems Enthusiast | Hackathon Coder  
